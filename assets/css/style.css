@@ -54,6 +54,9 @@ header .navbar-brand {
 	color: rgb(24, 10, 119);
 	font-weight: 600;
 }
+.features .navbar-nav img {
+	width: 150px;
+}
 
 /* 
 *-------------------------------
